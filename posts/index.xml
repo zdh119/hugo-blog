@@ -1,0 +1,58 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>所有文章 - 我的网站</title>
+<<<<<<< HEAD
+        <link>https://zdh119.github.io/hugo-blog/posts/</link>
+        <description>所有文章 | 我的网站</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>zdh_119@163.com (张德鸿)</managingEditor>
+            <webMaster>zdh_119@163.com (张德鸿)</webMaster><lastBuildDate>Tue, 17 May 2022 16:18:13 &#43;0800</lastBuildDate><atom:link href="https://zdh119.github.io/hugo-blog/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Test</title>
+    <link>https://zdh119.github.io/hugo-blog/posts/test/test/</link>
+    <pubDate>Tue, 17 May 2022 16:18:13 &#43;0800</pubDate>
+    <author>张德鸿</author>
+    <guid>https://zdh119.github.io/hugo-blog/posts/test/test/</guid>
+=======
+        <link>https://blog.zhangdehong.site/posts/</link>
+        <description>所有文章 | 我的网站</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>zdh_119@163.com (张德鸿)</managingEditor>
+            <webMaster>zdh_119@163.com (张德鸿)</webMaster><lastBuildDate>Tue, 17 May 2022 16:18:13 &#43;0800</lastBuildDate><atom:link href="https://blog.zhangdehong.site/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Test</title>
+    <link>https://blog.zhangdehong.site/posts/test/test/</link>
+    <pubDate>Tue, 17 May 2022 16:18:13 &#43;0800</pubDate>
+    <author>张德鸿</author>
+    <guid>https://blog.zhangdehong.site/posts/test/test/</guid>
+>>>>>>> 96026be (init)
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Content</title>
+<<<<<<< HEAD
+    <link>https://zdh119.github.io/hugo-blog/posts/test/content/</link>
+    <pubDate>Tue, 17 May 2022 16:08:13 &#43;0800</pubDate>
+    <author>张德鸿</author>
+    <guid>https://zdh119.github.io/hugo-blog/posts/test/content/</guid>
+=======
+    <link>https://blog.zhangdehong.site/posts/test/content/</link>
+    <pubDate>Tue, 17 May 2022 16:08:13 &#43;0800</pubDate>
+    <author>张德鸿</author>
+    <guid>https://blog.zhangdehong.site/posts/test/content/</guid>
+>>>>>>> 96026be (init)
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>博客test</title>
+<<<<<<< HEAD
+    <link>https://zdh119.github.io/hugo-blog/posts/first_post/</link>
+    <pubDate>Mon, 16 May 2022 23:31:33 &#43;0800</pubDate>
+    <author>张德鸿</author>
+    <guid>https://zdh119.github.io/hugo-blog/posts/first_post/</guid>
+=======
+    <link>https://blog.zhangdehong.site/posts/first_post/</link>
+    <pubDate>Mon, 16 May 2022 23:31:33 &#43;0800</pubDate>
+    <author>张德鸿</author>
+    <guid>https://blog.zhangdehong.site/posts/first_post/</guid>
+>>>>>>> 96026be (init)
+    <description><![CDATA[test1 2.1 这是2.1 2.2 这是2.3 3 1 2 3 public static void main(String[] args){ Sysytem.out.println(); } 4 123 5 你是谁 6]]></description>
+</item>
+</channel>
+</rss>
