@@ -2,10 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://zdh119.github.io/hugo-blog/posts/</loc><lastmod>2022-05-17T16:18:13&#43;08:00</lastmod></url><url>
-            <loc>https://zdh119.github.io/hugo-blog/posts/test/test/</loc><lastmod>2022-05-17T16:18:13&#43;08:00</lastmod></url><url>
-            <loc>https://zdh119.github.io/hugo-blog/</loc><lastmod>2022-05-17T16:18:13&#43;08:00</lastmod></url><url>
-            <loc>https://zdh119.github.io/hugo-blog/posts/test/content/</loc><lastmod>2022-05-17T16:08:13&#43;08:00</lastmod></url><url>
-            <loc>https://zdh119.github.io/hugo-blog/posts/first_post/</loc><lastmod>2022-05-16T23:31:33&#43;08:00</lastmod></url><url>
+            <loc>https://zdh119.github.io/hugo-blog/test/</loc><lastmod>2022-05-19T14:46:50&#43;08:00</lastmod></url><url>
             <loc>https://zdh119.github.io/hugo-blog/categories/</loc></url><url>
-            <loc>https://zdh119.github.io/hugo-blog/tags/</loc></url></urlset>
+            <loc>https://zdh119.github.io/hugo-blog/tags/</loc></url><url>
+            <loc>https://zdh119.github.io/hugo-blog/</loc></url></urlset>

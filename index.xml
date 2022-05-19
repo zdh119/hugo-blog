@@ -4,31 +4,7 @@
         <link>https://zdh119.github.io/hugo-blog/</link>
         <description>Hugo theme - LoveIt</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>zdh_119@163.com (张德鸿)</managingEditor>
-            <webMaster>zdh_119@163.com (张德鸿)</webMaster><lastBuildDate>Tue, 17 May 2022 16:18:13 &#43;0800</lastBuildDate>
+            <webMaster>zdh_119@163.com (张德鸿)</webMaster>
             <atom:link href="https://zdh119.github.io/hugo-blog/index.xml" rel="self" type="application/rss+xml" />
-        <item>
-    <title>Test</title>
-    <link>https://zdh119.github.io/hugo-blog/posts/test/test/</link>
-    <pubDate>Tue, 17 May 2022 16:18:13 &#43;0800</pubDate>
-    <author>张德鸿</author>
-    <guid>https://zdh119.github.io/hugo-blog/posts/test/test/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>Content</title>
-    <link>https://zdh119.github.io/hugo-blog/posts/test/content/</link>
-    <pubDate>Tue, 17 May 2022 16:08:13 &#43;0800</pubDate>
-    <author>张德鸿</author>
-    <guid>https://zdh119.github.io/hugo-blog/posts/test/content/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>博客test</title>
-    <link>https://zdh119.github.io/hugo-blog/posts/first_post/</link>
-    <pubDate>Mon, 16 May 2022 23:31:33 &#43;0800</pubDate>
-    <author>张德鸿</author>
-    <guid>https://zdh119.github.io/hugo-blog/posts/first_post/</guid>
-    <description><![CDATA[test1 2.1 这是2.1 2.2 这是2.3 3 1 2 3 public static void main(String[] args){ Sysytem.out.println(); } 4 123 5 你是谁 6]]></description>
-</item>
-</channel>
+        </channel>
 </rss>
