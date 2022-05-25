@@ -1,1 +1,11 @@
-{}
+{
+  "obsidian-shellcommands:shell-command-0": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
+    }
+  ]
+}
