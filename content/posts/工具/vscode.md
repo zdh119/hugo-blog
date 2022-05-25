@@ -1,7 +1,6 @@
 ---
 title: 15
-date: {{date}}
-last-modified: {{tp_last_modif_date}}
+date: 2020-11-30T23:33:03+08:00
 categories:
 tags:
 ---
