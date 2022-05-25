@@ -1,0 +1,118 @@
+{
+  "main": {
+    "id": "d9821f6a4492f48e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed629384fed01d4b",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bd3f323b75f9c539",
+    "type": "split",
+    "children": [
+      {
+        "id": "57fee8ab21543662",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e36125fa2720fafc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8eeb1eecb0571e91",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d0607c5bf53f59ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "5082c61abb540055",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "781621f2e858a9f9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "28a688a6aeb0db4b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ce09274293350d15",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "3a291f949b6fd230",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 281.6000061035156
+  },
+  "active": "ed629384fed01d4b",
+  "lastOpenFiles": [
+    "未命名.md",
+    "Templates/t1.md",
+    "Templates/diary.md",
+    "test.md"
+  ]
+}
