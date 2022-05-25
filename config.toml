@@ -1,4 +1,4 @@
-baseURL = "https://zdh119.github.io/hugo-blog"
+baseURL = "https://blog.zhangdehong.site"
 canonifyurls = true
 # 主题
 theme = [ "LoveIt"]
